@@ -1,0 +1,50 @@
+OUR 1
+    Topics:
+        Introduction to Python?
+        Why Python (comparative facts against others)?
+            Ansible
+            Automation
+            Data Science
+            Web
+        Setup of Python
+            Online
+            Offline
+            Package management with pip
+            virtualizing projects
+        Resources
+        Simple usage examples:
+            Hello world
+            In built help and exploration.
+HOUR 2
+    Topics:
+        Data Strucutures:
+            Numbers:
+                Integers
+                Floats
+            Lists
+            Tuple
+            Sets
+            Dictionary
+HOUR 3
+    Topics:
+        Decision Making:
+            Conditional Statements:
+                If
+                Else
+                Elif
+            Loops:
+                for
+                while
+        Resource Management:
+            Files:
+                Read
+                Write
+                Append
+HOUR 4
+    Topics:
+        Object Oriented Programming(OOP):
+            DRY concept
+            class
+            objects
+            methods
+            variables

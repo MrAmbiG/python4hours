@@ -1,0 +1,9 @@
+- hosts: localhost
+  tasks:
+    - name: Test that my module works
+      hoster:
+        file: 'ansible'
+        data: '4.4.4.4   google.com'
+      register: result
+
+    - debug: msg="{{ result }}"
